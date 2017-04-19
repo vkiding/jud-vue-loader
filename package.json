@@ -1,0 +1,40 @@
+{
+  "name": "jud-vue-loader",
+  "version": "0.0.1",
+  "dependencies": {
+    "consolidate": "^0.14.0",
+    "hash-sum": "^1.0.2",
+    "he": "^1.1.0",
+    "js-beautify": "^1.6.3",
+    "loader-utils": "^0.2.10",
+    "lru-cache": "^4.0.1",
+    "object-assign": "^4.0.0",
+    "postcss": "^5.0.10",
+    "postcss-selector-parser": "^2.0.0",
+    "source-map": "^0.5.6",
+    "vue-hot-reload-api": "^2.0.1",
+    "vue-style-loader": "^1.0.0",
+    "vue-template-compiler": "^2.1.10",
+    "vue-template-es2015-compiler": "^1.2.2",
+    "jud-styler": "^0.0.1",
+    "jud-template-compiler": "^0.0.1"
+  },
+  "description": "jud vue loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-vue-loader.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-vue-loader/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-vue-loader#readme"
+}
